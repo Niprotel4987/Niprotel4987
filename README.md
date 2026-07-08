@@ -1,174 +1,235 @@
-# Olá, eu sou Telmo 👋
+# 👋 Olá, eu sou Telmo Bittencourt
 
-estudante 5° semestre do curso superior em tecnologia da informação
-formado em técnico em informática
-em transição de carreira
+<p align="center">
 
-💻 Desenvolvedor focado em Flutter, Android e Desenvolvimento Web  
-📱 Criando aplicativos modernos e funcionais  
-🛒 Projetos de E-commerce e Sistemas Web  
-🗄️ Banco de Dados, Arquitetura de Software e Programação Orientada a Objetos  
-🎯 Em constante evolução na área de Tecnologia da Informação  
+🎓 Estudante de Tecnologia da Informação (UFMS) • 💻 Técnico em Informática • 🚀 Desenvolvedor em formação
+
+</p>
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
+## 👨‍💻 Sobre mim
+
+Sou estudante do **5º semestre de Tecnologia da Informação** pela **UFMS** e Técnico em Informática.
+
+Atualmente estou realizando minha transição da área de Logística para Desenvolvimento de Software, unindo mais de **10 anos de experiência profissional** em empresas de grande porte com minha formação em Tecnologia.
+
+Tenho experiência com sistemas corporativos como **SAP ERP** e **WMS**, além do desenvolvimento de aplicações Desktop, Web e Mobile.
+
+Estou constantemente estudando novas tecnologias e desenvolvendo projetos próprios para fortalecer meu portfólio.
+
+---
+
+# 🚀 Tecnologias
+
+## Linguagens
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+## Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## Banco de Dados
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 ---
 
-# 🎓 Formação Acadêmica
+# 💼 Conhecimentos
 
-## 💻 Curso Técnico em Informática
-📅 Junho de 2024 — Atualmente
-
-### Principais áreas estudadas:
-- Análise de Sistemas
-- Arquitetura de Computadores
+- Engenharia de Software
 - Banco de Dados
-- Desenvolvimento de Interface Web
-- Fundamentos da Web
-- Programação para Web
-- Programação Visual
-- Lógica de Programação
-- Segurança da Informação
-- Manutenção e Montagem de Computadores
-- Empreendedorismo
-- Ética e Cidadania
+- Laboratório de Banco de Dados
+- Estrutura de Dados
+- Programação Orientada a Objetos
+- Análise e Projeto de Software Orientado a Objetos
+- Desenvolvimento para Dispositivos Móveis
+- Desenvolvimento Web
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- C
+- C++
+- SQL
+- Flutter
+- Android Studio
+- Firebase
+- Git
+- GitHub
+- Sistemas de Informação
+- Interface Humano-Computador
+- Infraestrutura de Software
+- Técnicas Avançadas de Desenvolvimento
+- Planejamento Estratégico
+- Marketing Digital e Mídias Sociais
+- E-commerce
+- SAP ERP
+- WMS
+- Microsoft Excel Avançado
+- Microsoft PowerPoint
 
 ---
 
-## 🎓 Curso Superior em Tecnologia da Informação
-📅 Março de 2024 — Atualmente  
-📌 Previsão de conclusão: Dezembro de 2026
+# 🎓 Formação
 
-### Disciplinas estudadas:
+## 🎓 Universidade Federal de Mato Grosso do Sul
 
-#### 📘 1º Semestre
-- Inglês
-- Leitura e Produção de Textos
-- Matemática Básica
-- Pensamento Computacional
+**Tecnologia da Informação**
 
-#### 📘 2º Semestre
-- Algoritmos e Programação I
-- Algoritmos e Programação II
-- Cálculo I
-- Fundamentos Web
+2024 — 2026
 
-#### 📘 3º Semestre
+### Disciplinas estudadas
+
+- Algoritmos
+- Programação I
+- Programação II
 - Banco de Dados
 - Estrutura de Dados
-- Formação Profissional em Computação
-- Gestão de Inovação e Desenvolvimento de Produtos
-- Programação Orientada a Objetos
-- Sistemas Computacionais
-
-#### 📘 4º Semestre
 - Engenharia de Software
-- Infraestrutura para Sistemas de Software
-- Interface Humano-Computador
-- Planejamento Estratégico de Negócios
 - Sistemas de Informação
-- Técnicas Avançadas de Desenvolvimento de Software
+- Desenvolvimento Mobile
+- Interface Humano Computador
+- Análise e Projeto Orientado a Objetos
+- Laboratório de Banco de Dados
+- Marketing Digital e Mídias Sociais
+- E-commerce
+- Infraestrutura para Sistemas de Software
+- Técnicas Avançadas de Desenvolvimento
 
 ---
 
-# 📚 Cursos Complementares
+## 🎓 Técnico em Informática
 
-## 📊 Microsoft Excel 2016
-📅 Setembro de 2021 — Atualmente
+Principais conhecimentos:
 
-### Conteúdos estudados:
-- Trabalhando com nomes
-- Importação de dados
-- Auditoria e validação
-- Solver e funções
-- Funções aplicadas a banco de dados
-- Macros e formulários
-
----
-
-## 📽️ Microsoft PowerPoint 2016
-📅 Novembro de 2021 — Atualmente
-
-### Conteúdos estudados:
-- SmartArt
-- Álbum de Fotografias
-- Tabelas e Planilhas
-- Slide Mestre
+- Arquitetura de Computadores
+- Desenvolvimento Web
+- Banco de Dados
+- Segurança da Informação
+- Programação Web
+- Programação Visual
+- Lógica de Programação
+- Empreendedorismo
 
 ---
 
-## 📱 Desenvolvimento de Aplicações Mobile com Android Studio
-📅 Julho de 2021 — Atualmente
+# 🚀 Projetos
 
-### Conteúdos estudados:
+## 🔹 WiFi Password Viewer
 
-#### 📌 Fundamentos do Desenvolvimento Mobile
-- Aplicativos Mobile
-- Plataformas de Desenvolvimento
-- Android Studio
-- Criação de Aplicações Mobile
+Aplicação Desktop desenvolvida em Python para Windows.
 
-#### 📌 Interface Gráfica
-- Activities
-- Layouts e Widgets
-- Notificações
+### Recursos
 
-#### 📌 Implementação e Publicação
-- Requisições HTTP
-- Banco de Dados SQLite
-- Publicação de aplicativos na Google Play Store
+✔ Interface Moderna
 
----
+✔ Pesquisa em Tempo Real
 
-# 📌 Projetos em Destaque
+✔ Exportação TXT
 
-## 🛒 E-commerce Flutter
-Aplicativo completo de loja virtual com:
-- Carrinho de compras
-- Checkout
-- Lista de produtos
-- Interface moderna
-- Sistema de autenticação
+✔ Exportação CSV
+
+✔ Arquitetura Modular
+
+✔ Git Versionado
 
 ---
 
-## 📖 Bible Study App
-Aplicativo bíblico com:
-- Estudos bíblicos
+## 🔹 Bible Study
+
+Aplicativo para estudos bíblicos.
+
 - Devocionais
+- Estudos
+- História Bíblica
 - Versículos
-- Conteúdo histórico
-- Recursos multimídia
+- Conteúdo multimídia
 
 ---
 
-# 📊 Estatísticas GitHub
+## 🔹 Flutter E-commerce
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niprotel4987&show_icons=true&theme=dark)
+Aplicação de loja virtual desenvolvida em Flutter.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niprotel4987&layout=compact&theme=dark)
+- Login
+- Carrinho
+- Produtos
+- Checkout
+- Firebase
+
+---
+
+# 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niprotel4987&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niprotel4987&layout=compact&theme=tokyonight)
+
+---
+
+# 🎯 Objetivos
+
+Atualmente busco oportunidades como:
+
+- Desenvolvedor Python
+- Desenvolvedor Back-end
+- Desenvolvedor Mobile
+- Desenvolvedor Web
+- Estágio em Tecnologia
+- Analista de Sistemas
 
 ---
 
 # 📫 Contato
 
-- LinkedIn: www.linkedin.com/in/telmo-bittencourt-8a962b220
-- Email: telminho4987@gmail.com
+📧 Email:
+**telminho4987@gmail.com**
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/telmo-bittencourt-8a962b220
+
+🐙 GitHub
+
+https://github.com/Niprotel4987
