@@ -1,244 +1,80 @@
-# 👋 Olá, eu sou Telmo Bittencourt
+# Olá, eu sou Telmo Bittencourt 👋
 
-<p align="center">
+**Desenvolvedor freelancer em formação | Python • Flutter • aplicações web**
 
-🎓 Estudante de Tecnologia da Informação (UFMS) • 💻 Técnico em Informática • 🚀 Desenvolvedor em formação
+Desenvolvo projetos de software e estou disponível para conversar sobre pequenas automações em Python e aplicativos em Flutter. Gosto de entender a necessidade, alinhar o escopo e construir uma solução prática. Também trago mais de 10 anos de experiência profissional na área de Logística, com vivência em sistemas corporativos como SAP ERP e WMS.
 
-</p>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante do **5º semestre de Tecnologia da Informação** pela **UFMS** e Técnico em Informática.
-
-Atualmente estou realizando minha transição da área de Logística para Desenvolvimento de Software, unindo mais de **10 anos de experiência profissional** em empresas de grande porte com minha formação em Tecnologia.
-
-Tenho experiência com sistemas corporativos como **SAP ERP** e **WMS**, além do desenvolvimento de aplicações Desktop, Web e Mobile.
-
-Estou constantemente estudando novas tecnologias e desenvolvendo projetos próprios para fortalecer meu portfólio.
+📧 **E-mail:** [telminho4987@gmail.com](mailto:telminho4987@gmail.com)  
+💼 **LinkedIn:** [Telmo Bittencourt](https://www.linkedin.com/in/telmo-bittencourt-8a962b220)  
+🐙 **GitHub:** [Niprotel4987](https://github.com/Niprotel4987)
 
 ---
 
-# 🚀 Tecnologias
+## Como posso ajudar
 
-## Linguagens
+- **Automação e ferramentas desktop em Python** para tarefas e fluxos simples.
+- **Aplicativos mobile com Flutter** e interfaces para Android.
+- **Projetos web** com HTML, CSS e JavaScript.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+Estou construindo experiência com projetos próprios e aberto a conversar sobre demandas compatíveis com meu momento profissional. Escopo, prazo e orçamento são alinhados antes do início do trabalho.
 
 ---
 
-## Mobile
+## Projetos em destaque
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### WiFi Password Viewer
+Aplicação desktop para Windows, desenvolvida em Python.
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- Pesquisa em tempo real;
+- Exportação de dados em TXT e CSV;
+- Interface gráfica e arquitetura modular.
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### Bible Study
+Aplicativo para estudos bíblicos, com conteúdos de devocionais, história bíblica, versículos e materiais multimídia.
 
----
+### Flutter E-commerce
+Projeto de loja virtual desenvolvido em Flutter, com funcionalidades de login, produtos, carrinho, checkout e integração com Firebase.
 
-## Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+> Estou organizando os projetos para incluir demonstrações, imagens e instruções de uso. Consulte meu [perfil no GitHub](https://github.com/Niprotel4987) para acompanhar os repositórios disponíveis.
 
 ---
 
-# 💼 Conhecimentos
+## Tecnologias
 
-- Engenharia de Software
-- Banco de Dados
-- Laboratório de Banco de Dados
-- Estrutura de Dados
-- Programação Orientada a Objetos
-- Análise e Projeto de Software Orientado a Objetos
-- Desenvolvimento para Dispositivos Móveis
-- Desenvolvimento Web
-- HTML
-- CSS
-- JavaScript
-- Python
-- Java
-- C
-- C++
-- SQL
-- Flutter
-- Android Studio
-- Firebase
-- Git
-- GitHub
-- Sistemas de Informação
-- Interface Humano-Computador
-- Infraestrutura de Software
-- Técnicas Avançadas de Desenvolvimento
-- Planejamento Estratégico
-- Marketing Digital e Mídias Sociais
-- E-commerce
-- SAP ERP
-- WMS
-- Microsoft Excel Avançado
-- Microsoft PowerPoint
+**Linguagens e web:** Python, Java, C, C++, JavaScript, HTML, CSS e SQL  
+**Mobile:** Flutter, Dart e Android  
+**Banco de dados e serviços:** PostgreSQL, SQLite e Firebase  
+**Ferramentas:** Git, GitHub, VS Code e Android Studio  
+**Sistemas corporativos:** SAP ERP e WMS
 
 ---
 
-# 🎓 Formação
+## Formação e aprendizado
 
-## 🎓 Universidade Federal de Mato Grosso do Sul
+**Tecnologia da Informação — Universidade Federal de Mato Grosso do Sul (UFMS)**  
+2024–2026
 
-**Tecnologia da Informação**
+**Técnico em Informática**
 
-2024 — 2026
+### Google Skills — laboratórios práticos em andamento
 
-### Disciplinas estudadas
+Estou finalizando os seguintes cursos/laboratórios:
 
-- Algoritmos
-- Programação I
-- Programação II
-- Banco de Dados
-- Estrutura de Dados
-- Engenharia de Software
-- Sistemas de Informação
-- Desenvolvimento Mobile
-- Interface Humano Computador
-- Análise e Projeto Orientado a Objetos
-- Laboratório de Banco de Dados
-- Marketing Digital e Mídias Sociais
-- E-commerce
-- Infraestrutura para Sistemas de Software
-- Técnicas Avançadas de Desenvolvimento
-- Administração de Sistemas de Informação
-- EMPREENDEDORISMO E INOVAÇÃO
-- Modelagem e Inferência Estatística
-- Inteligêcia Artificial: Fundamentos e Práticas
-- Projeto Integrador de Tecnologia da Informação I
-- Segurança da Informação
-
-
-
+- Como Criar uma Máquina Virtual;
+- Introdução ao Cloud Shell e à gcloud;
+- Laboratório prático: Um tour pelo Google Cloud.
 
 ---
 
-## 🎓 Técnico em Informática
+## Experiência que levo para os projetos
 
-Principais conhecimentos:
-
-- Arquitetura de Computadores
-- Desenvolvimento Web
-- Banco de Dados
-- Segurança da Informação
-- Programação Web
-- Programação Visual
-- Lógica de Programação
-- Empreendedorismo
+Minha trajetória de mais de 10 anos na área de Logística me trouxe experiência em processos de empresas de grande porte e contato com SAP ERP e WMS. Atualmente, curso Tecnologia da Informação e desenvolvo projetos para ampliar minha experiência em software.
 
 ---
 
-# 🚀 Projetos
+## Vamos conversar?
 
-## 🔹 WiFi Password Viewer
+Se você tem uma tarefa para automatizar ou uma ideia de aplicativo, entre em contato para conversarmos sobre a necessidade e os próximos passos.
 
-Aplicação Desktop desenvolvida em Python para Windows.
-
-### Recursos
-
-✔ Interface Moderna
-
-✔ Pesquisa em Tempo Real
-
-✔ Exportação TXT
-
-✔ Exportação CSV
-
-✔ Arquitetura Modular
-
-✔ Git Versionado
-
----
-
-## 🔹 Bible Study
-
-Aplicativo para estudos bíblicos.
-
-- Devocionais
-- Estudos
-- História Bíblica
-- Versículos
-- Conteúdo multimídia
-
----
-
-## 🔹 Flutter E-commerce
-
-Aplicação de loja virtual desenvolvida em Flutter.
-
-- Login
-- Carrinho
-- Produtos
-- Checkout
-- Firebase
-
----
-
-# 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niprotel4987&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niprotel4987&layout=compact&theme=tokyonight)
-
----
-
-# 🎯 Objetivos
-
-Atualmente busco oportunidades como:
-
-- Desenvolvedor Python
-- Desenvolvedor Back-end
-- Desenvolvedor Mobile
-- Desenvolvedor Web
-- Estágio em Tecnologia
-- Analista de Sistemas
-
----
-
-# 📫 Contato
-
-📧 Email:
-**telminho4987@gmail.com**
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/telmo-bittencourt-8a962b220
-
-🐙 GitHub
-
-https://github.com/Niprotel4987
+📧 [telminho4987@gmail.com](mailto:telminho4987@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/telmo-bittencourt-8a962b220)
