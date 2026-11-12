@@ -1,8 +1,5 @@
 # 👋 Olá, eu sou Telmo Bittencourt
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&lines=Desenvolvedor+em+formação;Python+%7C+Flutter+%7C+Web;Freelancer+em+potencial" alt="Typing SVG" />
-</p>
 
 <p align="center">
   🎓 Estudante de Tecnologia da Informação (UFMS) • 💻 Técnico em Informática • 🚀 Desenvolvedor em formação
