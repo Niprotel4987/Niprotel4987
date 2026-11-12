@@ -144,6 +144,8 @@ Estou constantemente estudando novas tecnologias e desenvolvendo projetos própr
 - Segurança da Informação
 
 
+
+
 ---
 
 ## 🎓 Técnico em Informática
