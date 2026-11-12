@@ -136,6 +136,13 @@ Estou constantemente estudando novas tecnologias e desenvolvendo projetos própr
 - E-commerce
 - Infraestrutura para Sistemas de Software
 - Técnicas Avançadas de Desenvolvimento
+- Administração de Sistemas de Informação
+- EMPREENDEDORISMO E INOVAÇÃO
+- Modelagem e Inferência Estatística
+- Inteligêcia Artificial: Fundamentos e Práticas
+- Projeto Integrador de Tecnologia da Informação I
+- Segurança da Informação
+
 
 ---
 
